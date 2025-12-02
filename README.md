@@ -47,6 +47,7 @@ Contribution:
 This project contributes to the field of fraud detection by:
 
 ->Demonstrating the effectiveness of a fusion-based model.
+
 ->Providing a thorough comparison of various machine learning algorithms.
 ->Addressing ethical issues related to fraud detection.
 ->Enhancing the overall performance and reliability of fraud detection models in the banking sector.
